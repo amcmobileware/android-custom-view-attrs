@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomTheme.CustomView">
+        <attr name="titleTextStyle" format="reference"/>
+        <attr name="contentTextStyle" format="reference"/>
+        <attr name="stripeColor" format="color"/>
+    </declare-styleable>
+</resources>
